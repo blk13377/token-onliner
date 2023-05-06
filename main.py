@@ -78,9 +78,9 @@ def main():
     os.system("cls")
     types = ['Playing', 'Streaming', 'Watching', 'Listening to']
     type = "Playing"
-    print(f"\n{Fore.LIGHTBLACK_EX}Mass Discord Token Onliner | [{Fore.GREEN}ASPECT{Fore.RESET}]")
+    print(f"\n{Fore.LIGHTBLACK_EX}Mass Discord Token Onliner | [{Fore.GREEN}BLK{Fore.RESET}]")
     cont = input("")
-    stat = "github.com/aspect13377"
+    stat = "github.com/blk13377"
     status = ['online', 'dnd', 'idle','random']
     status = status[3]
     executor = ThreadPoolExecutor(max_workers=1000)
